@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/abhitaur/static/css/main.359b6f9d.css",
-    "main.js": "/abhitaur/static/js/main.d0a8e33b.js",
-    "index.html": "/abhitaur/index.html",
-    "main.359b6f9d.css.map": "/abhitaur/static/css/main.359b6f9d.css.map",
-    "main.d0a8e33b.js.map": "/abhitaur/static/js/main.d0a8e33b.js.map"
+    "main.css": "/abhitaur/abhitaur.git/static/css/main.359b6f9d.css",
+    "main.js": "/abhitaur/abhitaur.git/static/js/main.d0a8e33b.js",
+    "index.html": "/abhitaur/abhitaur.git/index.html",
+    "main.359b6f9d.css.map": "/abhitaur/abhitaur.git/static/css/main.359b6f9d.css.map",
+    "main.d0a8e33b.js.map": "/abhitaur/abhitaur.git/static/js/main.d0a8e33b.js.map"
   },
   "entrypoints": [
     "static/css/main.359b6f9d.css",
